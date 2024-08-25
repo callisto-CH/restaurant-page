@@ -241,6 +241,7 @@ ul {
 	padding-bottom: 2rem;
 
 	background-image: url('./images/info-background.jpg');
+	background-size: cover;
 }
 
 .menu.section {
@@ -321,6 +322,7 @@ ul {
 	gap: 1.5rem;
 
 	background-image: url('./images/info-background.jpg');
+	background-size: cover;
 }
 
 .about.description-text {

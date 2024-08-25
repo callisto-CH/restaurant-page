@@ -1,1 +1,3 @@
-# restaurant-page
+This restaurant page project was created for The Odin Project.
+
+Initially, the Element class had a far less readable syntax, and the pages were constructed with a bunch of appendChild statements in each load file. I was so unhappy with that that I refactored the Element class to a more readable format including a children property and created a buildPage function that iterated through the elements and appended their child nodes appropriately. I'm not sure this is the best way to go about it but it helped me stay sane while completing this project.

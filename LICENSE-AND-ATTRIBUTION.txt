@@ -1,0 +1,165 @@
+Reey Regular font by Koen van der Bliek on Font Squirrel:
+https://www.fontsquirrel.com/fonts/reey
+
+License for Reey regular font from https://www.fontsquirrel.com/license/reey:
+Free for Personal and Commercial Use
+For Reey Regular.
+For personal & commercial use, please email me the link to your final work with my font at info@koenvanderbliek.nl. I would always love to see :D
+
+For modification or faulty glyphs, please email me at info@koenvanderbliek.nl.
+
+STRICTLY NO REDISTRIBUTION OF FILES UNDER ANY CIRCUMSTANCE, STRICTLY NO RESALE EVEN UNDER MODIFICATION.
+
+Reey Regular. Copyright Koen van der Bliek 2017 All Rights Reserved
+
+Thank you !!
+
+———————————————————————————————————————————————————————————————————————————————————————
+
+Poppins Thin font by Indian Type Foundry on Font Squirrel:
+https://www.fontsquirrel.com/fonts/poppins
+
+License for Poppins Thin font from https://www.fontsquirrel.com/license/poppins:
+Copyright (c) 2014, Indian Type Foundry (info@indiantypefoundry.com).
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+—————————————————————————————-
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+—————————————————————————————-
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+“Font Software” refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+“Reserved Font Name” refers to any names specified as such after the copyright statement(s).
+
+“Original Version” refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+“Modified Version” refers to any derivative made by adding to, deleting, or substituting—in part or in whole—any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+“Author” refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+
+———————————————————————————————————————————————————————————————————————————————————————
+
+Cafe background photo in home tab from Kris Atomic on Unsplash:
+https://unsplash.com/photos/round-brown-wooden-table-with-french-press-on-top-with-white-ceramic-teacup-beside-3b2tADGAWnU
+
+Info background photo in home tab from NordWood Themes on Unsplash:
+https://unsplash.com/photos/a-person-riding-a-snowboard-down-a-snow-covered-slope-KcsKWw77Ovw
+
+Unsplash license from https://unsplash.com/license:
+Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use images from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile images from Unsplash to replicate a similar or competing service.
+
+———————————————————————————————————————————————————————————————————————————————————————
+
+Coffee icon in home tab from Freepik on Flaticon:
+https://www.flaticon.com/free-icon/coffee_818217
+
+Hours icon in home tab from Freepik on Flaticon:
+https://www.flaticon.com/free-icon/time-left_66163
+
+Address icon in home tab from Freepik on Flaticon:
+https://www.flaticon.com/free-icon/location_535239
+
+Phone icon in home tab from Gregor Cresnar on Flaticon:
+https://www.flaticon.com/free-icon/phone-call_126509
+
+Email icon in home tab from Freepik on Flaticon:
+https://www.flaticon.com/free-icon/mail_646094
+
+Plate and silverware icon in menu tab from Freepik on Flaticon:
+https://www.flaticon.com/free-icon/restaurant_562678
+
+Bread icon in menu tab from Freepik on Flaticon:
+https://www.flaticon.com/free-icon/bread_3348044
+
+Cake icon in menu tab from Freepik on Flaticon:
+https://www.flaticon.com/free-icon/cake_792815
+
+Flaticon license from https://www.flaticon.com/legal:
+8. License Agreement for Flaticon Content
+The Company authorizes the User to download and use the Flaticon Content solely in accordance with this Section (see Section 7 in relation to the Sponsored Content) and in any event subject the terms and limitations set forth hereunder. The terms under which the User may download and use the Flaticon Content shall depend on the type of license the User holds from time to time. The Company or its licensors reserve all rights to the Flaticon Content which are not expressly granted to the User under this Section.
+
+8.1. Flaticon License
+By means of these Terms, the Company grants the User a Flaticon License under which the User is authorized to download, use and modify the Flaticon Content on a device owned or controlled by the User on a non-transferable, limited, exclusive, revocable and worldwide basis for the entire duration of the rights and solely for the purposes and uses authorized under these Terms.
+
+Without prejudice to the provisions set forth in paragraph 3 of this clause, the User of a Flaticon License may use the content in the Flaticon Content, provided that
+
+the Flaticon Content is not used in printed or electronic items (e.g. t-shirts, cups, postcards, birthday or greeting cards, invitations, calendars, web models or electronic devices, apps, NFTs, videogames, advertising spots, audiovisual animations) aimed to be resold, in which the Flaticon Content is the main element (because of size, relevance or any other cause, in case of doubt about whether the content is main element, it shall be deemed that the content is main element);
+Furthermore, the authorization to use the content in the Flaticon Content shall be free of charge under the Flaticon License where any use thereof by the User is done by duly crediting said content to the Website/Company and, in any event, to the Collaborator, as stated by the Company from time to time. In order to benefit from the Service of using the Flaticon Content without the aforementioned crediting, the User must purchase a subscription (hereinafter the "Premium Subscription") from the Website and download the relevant Flaticon Content during the term of said Premium Subscription. The terms set forth in Section 9 shall apply to the purchase of the Premium Subscription.
+
+Where any content of the Flaticon Content is marked or identified as being for editorial use, or where within the same there are distinctive signs, recognizable products, public buildings, public events or images taken in places where recognizable persons appear in the background, the User shall only be entitled to use it for such editorial use; in other words, for purposes related to exercising freedom of expression and the right to information or for academic or educational purposes. More specifically, this means that the User undertakes not to use said content in any way that could imply a link to any business activity, use in the course of trade or the advertising, promotion or marketing of any product or service. In addition, the User shall ensure that any use for educational purposes is allowed under any legislation which applies and shall fulfill any requirements set forth by such legislation, including, but not limited to, citation obligations or limitations on the extent or purpose of said use. The User shall be directly liable for, and the Company shall not assume any liability resulting from the use for commercial purposes by the User of any content in the Flaticon Content whose use must be limited to editorial use as set forth in this paragraph or as a consequence of any editorial use that is contrary to the legislation which applies.
+
+8.2. Merchandising License
+The User may purchase a Merchandising License according to the procedure set out on the Website from time to time for some of the Flaticon Content chosen by the Company to be subject to a Merchandising License. The Company shall freely decide which content in the Flaticon Content can be subject to a Merchandising License and may change such content without restriction from time to time (though said decision shall not affect any Merchandising Licenses that have been duly purchased previously). The price for each Merchandising License shall be displayed on the Website from time to time, be individual and solely affect the content thus chosen. The Merchandising License is personal and it is forbidden to transfer it to third parties and to allow the use of the Flaticon Content under said License by third parties other than User (which for this purpose includes within the concept entities related or belonging to the same group of companies as the User).
+
+The price of the Merchandising License is displayed on the Website in the appropriate currency and includes, where applicable, the Value Added Tax which applies. The Company reserves the right to change the price of any Merchandising License from time to time, though it shall apply the current price appearing on the Website at the time the order for the Merchandising License is placed by the User.
+
+The User shall pay for the Merchandising License in advance through PayPal, a credit/debit card or any other payment method offered by the Company from time to time in accordance with the terms and conditions set forth on the Website. The User must follow the instructions displayed on the Website to purchase and pay for a Merchandising License. The processing of the information and data of payments made through PayPal, credit/debit card or any other payment method offered by the Company from time to time is done through third-party sites. By placing the order for the Merchandising License, the User authorizes the Company to charge the relevant price through the payment method chosen. The Merchandising License shall not be granted until payment thereof has been received from or authorized by the relevant financial institution. As from that time, the User may download the Flaticon Content for which the User has purchased a Merchandising License from said User's personal profile page.
+
+Likewise, an acknowledgment of receipt of the Merchandising License purchase order shall be sent to the User by e-mail as soon as possible and no later than twenty-four (24) hours after the order is accepted. The acknowledgment of receipt may be stored and printed. The User may request and download an invoice as stated on the Website twenty-four (24) hours after making the relevant payment.
+
+As the content is digital content, no right of withdrawal applies, without detriment to any safeguards set forth in the consumer and user protection legislation which may apply, except where the Company states otherwise and instead it shall be subject to the terms and conditions set forth by the Company.
+
+The Company authorizes the User who purchases a Merchandising License to download, use and modify the content in the Flaticon Content subject to said Merchandising License on a non-transferrable, personal, limited, non-exclusive, revocable and worldwide basis for the entire duration of the rights in order to design and produce printed or digital items or products intended for resale (e.g. T-shirts, mugs, postcards, birthday and greeting cards, invitations, calendars, website templates or electronic devices, apps, videogames, spots, or audiovisual animations), regardless of whether or not the content in the Flaticon Content subject to the Merchandising License is the end product's main element.
+
+Furthermore, the User may use the Flaticon Content for which the User has purchased a Merchandising License without crediting it to the Website/Company.
+
+Without limiting the provisions set forth in paragraph 3 of this Section, the User of a Merchandising License may use content in the Flaticon Content subject to the Merchandising License for the aforementioned uses, provided all the terms set forth hereunder are fulfilled:
+
+The Flaticon Content is not used in such a way so that the end user of the end products can extract and use it separately from the end products.
+The User does not display, sell, license or publicly distribute the Flaticon Content (or the User's works derived therefrom) as a separate file from the end products.
+The User takes all reasonable measures to prevent third parties from accessing or duplicating the Flaticon Content.
+The Flaticon Content is not used in software applications which allow a third party to generate on-demand designs. This includes (but is not limited to) on-demand printing software applications which an end user can access to use the Flaticon Content in order to design or generate their own end product.
+The Flaticon Content is not used in NFTs in which the Flaticon Content is the main element (due to size, relevance or any other reason so that, in the event of any doubt about whether the content is the main element, it shall be deemed as such).
+The User does not reproduce the content in the Flaticon Content more than 100,000 times on physical printed or digital formats intended for sale.
+8.3. Common terms and conditions of the Flaticon License and the Merchandising License
+Without detriment to the uses that are not allowed under each type of license set forth in the preceding paragraphs of this Section or by any other term of these Terms and Conditions, the User who purchases a Flaticon License or a Merchandising License may use the Flaticon Content (including any work derived therefrom) either entirely or with only one or some of its elements, whether it be without modification, combining it with other content or after having modified it previously, solely where:
+
+it does not involve collective use;
+the content in the Flaticon Content is not used in a way that implies an association with or sponsorship by the Company or the Website;
+the content in the Flaticon Content or any work derived therefrom, whether entirely or in part, is not used or included in a database, file or any other product or service which offers icons or images, or in any collection, set of videos or repertoire that could be subject to distribution or resale or is used in any other way that might impede or limit future visits to or downloads from the Website;
+the User does not resell, assign, transfer or sublicense the Flaticon Content or works derived from the Flaticon Content;
+the Flaticon Content is not used (whether entirely or in part) on a trademark or as a part thereof, or in a way which otherwise warrants or implies a warranty of any product and/or service, except where the Flaticon Content is used in a modified way in said uses so that it constitutes new and different content that does not mislead the public as regards the original Flaticon Content or involves using the Flaticon Content in a mockup or test, but not as an end product or definitive material;
+the Flaticon Content is not used (including, but not limited to, any information contained in titles, captions, tags, keywords or other metadata related to the Flaticon Content) for the purposes of machine learning for algorithms, artificial intelligence or any other similar technology, artificial intelligence or for its use in connection with technologies designed or intended for the identification of natural persons.
+use is not made of the content in the Flaticon Content in a way that may be deemed defamatory, harmful, obscene, immoral or unlawful, including, but not limited to, its use in a way that places any person appearing on the Flaticon Content in a negative light or which shows said person in a way that may be deemed offensive, such as, for instance, that person's use in pornography, escort service advertisements, support for political parties or ideologies, birth control products; and
+use is not made of the content in the Flaticon Content in a way which negatively affects the reputation of or insults or defames a person, race, sex, culture, religion, country, region, city, town, village or any other place or community.
+The User acknowledges that some laws may impose limits on the use of Flaticon Content. For this reason, the User agrees that it is the User's responsibility, and not the Company's, to verify that the applicable regulations in the User's jurisdiction do not prohibit the User's use of the Flaticon Content.
+
+The User is forbidden from authorizing third parties to use the content in the Flaticon Content (or any modification thereof). As an exception to the foregoing, the User may authorize third parties to use the content in the Flaticon Content where each and every one of the following terms are met:
+
+The third party has professionally engaged the User to produce goods or provide the third party with services and the User uses a limited number of elements of the content in the Flaticon Content to produce such goods or provide said services to the third party.
+The authorization granted by the User to the third party is issued in writing and fulfills all the restrictions and terms that apply to the User for using the content in the Flaticon Content, including any restriction without any limitation whatsoever that impedes distributing, reselling or licensing the content in the Flaticon Content (e.g. the third party is the end user of the relevant element of the content in the Flaticon Content).
+Unless the User has purchased a Merchandising License for a specific Flaticon Content, none of the content in the Flaticon Content which is subject to the authorization is used as the main element (due to size, relevance or any other reason so that, in the event of any doubt about whether the content is the main element, it shall be deemed as such) in printed or electronic items (e.g. T-shirts, mugs, postcards, birthday or greeting cards, invitations, calendars, web mockups or electronic devices, apps, videogames, advertising spots, audiovisual animations) intended to be resold by the third party.
+The production of goods or the provision of services by the User for the third party is not performed in an automated way, but rather in a specific tailored way for the third party (and therefore authorization is not granted by the User to any other third party) requiring the User's specific and substantial human involvement in relation to each third party.
+The User — and not the third party — chooses and selects the specific content in the Flaticon Content that will be used in the production of the goods or in the provision of the services intended for the third party.
+Where each and every one of the aforementioned terms are met, the User may authorize a third-party to use the relevant content in the Flaticon Content. This exception solely refers to the prohibition on authorizing third parties to use the content in the Flaticon Content, without affecting or limiting in any way whatsoever the rest of the terms on the content in the Flaticon Content. In the event of any doubt about the fulfillment of foregoing terms on the exception to the prohibition on authorizing third parties to use the content in the Flaticon Content, it shall be deemed that they have not been met.
+
+The User does not acquire any right to use the content in the Flaticon Content other than as expressly envisaged in these Terms. In particular, the User is not authorized to distribute, resell or lease any content in the Flaticon Content (or any modification of any content in the Flaticon Content).
+
+The User's rights under this term shall automatically come to an end without any prior notice if the User breaches any of the Terms. Upon these rights' termination, the User shall cease using all the Flaticon Content and destroy all copies thereof, regardless of whether they are full or partial copies.

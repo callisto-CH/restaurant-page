@@ -147,8 +147,6 @@ footer {
 }
 
 .home.bottom {
-	background-image: url("images/info-background.jpg");
-
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	gap: 0.5rem;
@@ -239,9 +237,6 @@ ul {
 	flex-direction: column;
 	gap: 5%;
 	padding-bottom: 2rem;
-
-	background-image: url('./images/info-background.jpg');
-	background-size: cover;
 }
 
 .menu.section {
@@ -320,9 +315,6 @@ ul {
 	flex-direction: column;
 	align-items: center;
 	gap: 1.5rem;
-
-	background-image: url('./images/info-background.jpg');
-	background-size: cover;
 }
 
 .about.description-text {
